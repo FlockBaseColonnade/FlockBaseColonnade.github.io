@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flockbasecolonnade.github.io/sitemap.xml
